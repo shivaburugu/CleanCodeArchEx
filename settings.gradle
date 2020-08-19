@@ -1,2 +1,4 @@
+include ':domain'
+include ':bridging'
 include ':app'
 rootProject.name = "CleanCodeArchEx"
